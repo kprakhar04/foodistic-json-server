@@ -1,0 +1,32 @@
+{
+  "restaurant": {
+    "thumbnail": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/qst0meefgb1oycitc8cs",
+    "name": "Black Eye Cafe & Kitchen",
+    "category": "Chinese, Tandoor",
+    "area": "Boring Road, Sri Krishna Puri",
+    "address": {
+      "street": "Boring Road",
+      "locality": "Sri Krishna Puri",
+      "city": "Patna"
+    },
+    "aggregateRating": {
+      "ratingValue": 4.0,
+      "ratingCount": "20"
+    },
+    "deliveryTime": 42,
+    "priceRange": {
+      "cost": "₹ 250",
+      "count": "two"
+    },
+    "offers": [
+      {
+        "discount": "30% off upto ₹150 on orders above ₹400 + Up to ₹100 cashback with Paytm",
+        "coupon": "JUMBO"
+      },
+      {
+        "discount": "50% off upto ₹100",
+        "coupon": "TRYNEW"
+      }
+    ]
+  }
+}
