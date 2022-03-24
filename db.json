@@ -31,5 +31,95 @@
         }
       ]
     }
+  ],
+  "dishes": [
+    {
+      "id": 1,
+      "restaurantId": 1,
+      "dishes": {
+        "momos": [
+          {
+            "id": 1,
+            "type": "non-veg",
+            "name": "Chicken Afghani Tandoori Momos (8 Pieces)",
+            "price": "180",
+            "currency": "INR",
+            "description": ""
+          },
+          {
+            "id": 2,
+            "type": "non-veg",
+            "name": "Chicken Tandoori Momos (8 Pieces)",
+            "price": "180",
+            "currency": "INR",
+            "description": ""
+          },
+          {
+            "id": 3,
+            "type": "veg",
+            "name": "Paneer Kurkure Momos (8 Pieces)",
+            "price": "139",
+            "currency": "INR",
+            "description": ""
+          }
+        ],
+        "starters": [
+          {
+            "id": 4,
+            "type": "veg",
+            "name": "Paneer Tikka",
+            "price": "150",
+            "currency": "INR",
+            "description": "Slices of paneer roasted in tandoor with green chutney with it."
+          },
+          {
+            "id": 5,
+            "type": "non-veg",
+            "name": "Chicken Malai Tikka",
+            "price": "250",
+            "currency": "INR",
+            "description": "Chicken tikka with malai flavor of malai on it served with green chutney and sliced onion"
+          }
+        ],
+        "thali": [
+          {
+            "id": 6,
+            "type": "veg",
+            "name": "Black Eye Chinese Veg Thali",
+            "price": "300",
+            "currency": "INR",
+            "description": "Veg Chowmein + Veg Fried Rice + Paneer Chilli + Veg Manchurian + Gulab Jamun"
+          },
+          {
+            "id": 7,
+            "type": "non-veg",
+            "name": "Black Eye Chinese Non Veg Thali",
+            "price": "400",
+            "currency": "INR",
+            "description": "Chicken Chilli + Chicken Manchurian + Chicken Fried Rice + Chicken Chowmein + Gulab Jamun"
+          }
+        ],
+        "family pack": [
+          {
+            "id": 8,
+            "type": "non-veg",
+            "name": "Non Veg Family Pack(serves 8)",
+            "price": "2199",
+            "currency": "INR",
+            "description": "4 Non Veg Soup + 4 Non Veg Starter + 4 Non Veg Gravy + Rice + 8 Butter Naan + 2 ltr Coke."
+          }
+        ],
+        "soups": [
+          {
+            "id": 9,
+            "type": "non-veg",
+            "name": "Chicken Manchow Soup",
+            "price": "140",
+            "currency": "INR",
+            "description": ""
+          }
+        ]
+      }
+    }
   ]
 }
