@@ -12,7 +12,7 @@
         "city": "Patna"
       },
       "aggregateRating": {
-        "ratingValue": 4.0,
+        "ratingValue": 4,
         "ratingCount": "20"
       },
       "deliveryTime": 42,
@@ -121,5 +121,6 @@
         ]
       }
     }
-  ]
+  ],
+  "carts": {}
 }
